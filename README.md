@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• **SpeeD** — Gym-oriented social network built in Django.  
 &nbsp;&nbsp;&nbsp;&nbsp;• **ManejApp** — Driving school app made in **Flutter + Node.js + MySQL**.  
 🤖 &nbsp;AI enthusiast (TensorFlow, CNNs, image classification & embedded vision).  
-📚 &nbsp;Studying **CBC – UBA (2025)** and ex-IT intern at **Ampacet**.  
+📚 &nbsp;Studying **Blas Pascal (2026)** and ex-IT intern at **Ampacet**.  
 🎨 &nbsp;UI/UX enjoyer — modern interfaces, logos & product design.  
 ⚡ &nbsp;I love building things that mix **software + hardware + real-world impact**.
 
